@@ -5,5 +5,7 @@ time of the models. It basically implements parallel processing.
 
 # Installations
 For this you just need to have tensorflow install on your local machine which can be done by following code
+
+
 pip install tensorflow==1.15.0
 
